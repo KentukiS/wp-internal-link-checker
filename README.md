@@ -6,7 +6,10 @@ Plugin will calculate the number of internal links on the page/blogpost and will
 
 How to use:
 1) install the plugin in Admin->Plugins->Upload Plugin https://prnt.sc/NqwZNh1eWSzF 
-2) Go to Admin->Settings->Writing
-3) Change "Minimal internal links for post" to whatever you want value
+2) Go to Admin->Settings->Writing 
+3) Change "Minimal internal links for post" to whatever you want value https://prnt.sc/Il46aSyLqCXn
+
+Plugin without needed count of links in content https://prnt.sc/68XvT2PSMUoh
 
 It's done!
+
