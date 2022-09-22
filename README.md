@@ -1,0 +1,1 @@
+# wp-internal-link-checker
